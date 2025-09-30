@@ -1,0 +1,10 @@
+name: lfd-tutorial-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-forge::casadi
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
+prefix: /Users/ahalyaprabhakar/miniconda3/envs/lfd-tutorial-env
